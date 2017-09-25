@@ -1,0 +1,2413 @@
+{
+	"folder_history":
+	[
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情",
+		"/C/Users/tujunxiong/Desktop/vuex-dev",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/dist",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/cms_vue",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/03-NODE基础-第3天- VUE基础",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/dist1",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/src",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/02_vue",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础 {}",
+		"/C/Users/tujunxiong/Desktop/08-NODE基础-第8天- {webpack}/4-源代码/test",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/01-VUE-第1天- webpack/4-源代码/code/11_exercise",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/01-VUE-第1天- webpack/4-源代码/code/05webpack_ES6",
+		"/C/Users/tujunxiong/Desktop/08-NODE基础-第8天- {webpack}/4-源代码/test/10_es6",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/01-VUE-第1天- webpack",
+		"/C/Users/tujunxiong/Desktop/07-NODE基础-第7天-{cookie、session的使用、音乐CRUD }",
+		"/C/Users/tujunxiong/Desktop/06-NODE基础-第6天-{我的音乐、注册、登录、cookie }",
+		"/C/Users/tujunxiong/Desktop/05-NODE基础-第5天-{express、mongodb }",
+		"/C/Users/tujunxiong/Desktop/04-NODE基础-第4天-{ MVC抽取、路径加载规则、package.json、npm}",
+		"/C/Users/tujunxiong/Desktop/03-NODE基础-第3天-{黑客新闻实战 }",
+		"/C/Users/tujunxiong/Desktop/02-NODE基础-第2天-{node介绍、环境配置、文件、http}",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/08-NODE基础-第8天- {webpack}",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/08-NODE基础-第8天-webpack",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/07-NODE基础-第7天-{ 我的音乐增删改查 }",
+		"/H/备份/work/我的备课资源/前端/11月资料/base64优化及拖拽/draggable",
+		"/C/Users/tujunxiong/Desktop/20170219文件/reptile",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/01_webpack/9.项目结构dev-server/src",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/01_webpack/9.项目结构dev-server - 副本",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/01_webpack/9.项目结构dev-server",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/01_webpack/8.加载字体图标",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/01_webpack/7.url-loader实现图片打包",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/08-NODE基础-第8天-{ webpack}",
+		"/H/备份/work/我的备课资源/前端/11月资料/base64优化及拖拽/drag",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/06-NODE基础-第6天-{cookie、session的使用、音乐首页显示、滚动歌词 }",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目/01_webpack",
+		"/D/06-NODE基础-第6天-{我的音乐、注册、登录、cookie }",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/cli_test",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/cli_test/w",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/04-NODE基础-第4天-{express、mongodb }",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/01-NODE基础-第1天-{ES6、前端模块化}",
+		"/C/Users/tujunxiong/Desktop/printCompatibility",
+		"/C/Users/tujunxiong/Desktop/day01_backup",
+		"/D/06_1_global",
+		"/D/备份",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/02-NODE基础-第2天-{node介绍、环境配置、文件、http}/4-源代码/code/09_chatroom",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/03-NODE基础-第3天-{前后台交互、路径加载规则、package.json、npm }",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程",
+		"/C/Users/tujunxiong/Desktop/player-master",
+		"/C/Users/tujunxiong/Desktop/html5-music-player-master",
+		"/C/Users/tujunxiong/Desktop/tttt",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/test",
+		"/C/Users/tujunxiong/Desktop/07-NODE基础-第7天-{cookie、session的使用、音乐CRUD }/4-源代码/music",
+		"/C/Users/tujunxiong/Desktop/广州5期node课程/02-NODE基础-第2天-{node介绍、环境配置、文件、http}",
+		"/C/Users/tujunxiong/Desktop/课前准备/vue项目",
+		"/C/Users/tujunxiong/Desktop/vue_project",
+		"/C/Users/tujunxiong/Desktop/新建文件夹 (2)",
+		"/C/Users/tujunxiong/Desktop/课前准备",
+		"/D/08_promise",
+		"/C/Users/tujunxiong/Desktop/webpack-simple-master",
+		"/C/Users/tujunxiong/Desktop/vue_project/web",
+		"/H/备份/work/我的备课资源/前端/11月资料/carhartl-jquery-cookie-fedc4cb/test",
+		"/C/Users/tujunxiong/Desktop/06-NODE基础-第6天-{我的音乐查看、添加、编辑、删除 }",
+		"/C/Users/tujunxiong/Desktop/04-NODE基础-第4天-{ }",
+		"/C/Users/tujunxiong/Desktop/20170219文件/code",
+		"/C/Users/tujunxiong/Desktop/03-NODE基础-第4天-{ }",
+		"/C/Users/tujunxiong/Desktop/01-NODE基础-第1天-{ES6、前端模块化}",
+		"/D/tjx/node_modules/txt",
+		"/C/Users/tujunxiong/Desktop/0x-NODE基础-第1天-{ES6、前端模块化}",
+		"/C/Users/tujunxiong/Desktop/09_promise_toES5",
+		"/C/Users/tujunxiong/Desktop/2017-02-16备份/广州4期/广州4期node基础/05-NODE基础-第5天-{ES6}/4-源代码/code",
+		"/C/Users/tujunxiong/Desktop/2017-02-16备份/广州4期/广州4期node基础/05-NODE基础-第5天-{ES6}/4-源代码",
+		"/C/Users/tujunxiong/Desktop/01-NODE基础-第1天-{ES6}",
+		"/C/Users/tujunxiong/Desktop/test_node03",
+		"/C/Users/tujunxiong/Desktop/node_06",
+		"/C/Users/isc/Desktop/day07",
+		"/C/Users/isc/Desktop/myreact",
+		"/C/Users/isc/Desktop/reactTodo",
+		"/C/Users/isc/Desktop/todomvc",
+		"/C/Users/isc/Desktop/projects",
+		"/C/Users/isc/Desktop/day06",
+		"/C/Users/isc/Desktop/project",
+		"/C/Users/isc/Desktop/day05",
+		"/C/Users/isc/Desktop/fullproject",
+		"/C/Users/isc/Desktop/fullproject2",
+		"/C/Users/isc/Desktop/test",
+		"/C/Users/isc/Desktop/learning-webpack",
+		"/C/Users/isc/Desktop/day04",
+		"/C/Users/isc/Desktop/myApp2",
+		"/C/Users/isc/Desktop/day03",
+		"/C/Users/isc/Desktop/button",
+		"/C/Users/isc/Desktop/day02",
+		"/C/Users/isc/Desktop/myApp",
+		"/C/Users/isc/Desktop/Angular",
+		"/C/Users/isc/Desktop/moviecat",
+		"/C/electronDemo/electron-door2",
+		"/C/Users/isc/Desktop/day01",
+		"/C/Users/isc/Desktop/projectGulp",
+		"/C/Users/isc/Desktop/xh",
+		"/C/Users/isc/Desktop/tools",
+		"/C/Users/isc/Desktop/myproject002",
+		"/C/Users/isc/Desktop/myproject",
+		"/C/electronDemo/electron-door",
+		"/C/Users/isc/Desktop/Angular/资料/moviecat",
+		"/C/Users/isc/Desktop/todomvc-app-template",
+		"/C/Users/isc/Desktop/electron-quick-start",
+		"/C/Users/isc/Desktop/service",
+		"/C/Users/isc/Desktop/angular",
+		"/C/Users/isc/Desktop/android",
+		"/C/Users/isc/Desktop/code",
+		"/C/Users/isc/Desktop/douban",
+		"/C/Users/isc/Desktop/testGit",
+		"/C/Users/isc/Desktop/testAppA",
+		"/C/Users/isc/Desktop/testApp",
+		"/C/Users/isc/Desktop/day14",
+		"/C/Users/isc/Desktop/testApp2",
+		"/C/Users/isc/Desktop/day_13",
+		"/C/Users/isc/Desktop/day13/test_sdk",
+		"/C/Users/isc/Desktop/wechat_js_sdk",
+		"/C/Users/isc/Desktop/day12",
+		"/C/Users/isc/Desktop/day13",
+		"/C/Users/isc/Desktop/day12/others/modules",
+		"/C/hm_fed01/day10/code",
+		"/C/Users/isc/Desktop/todos",
+		"/C/Users/isc/Desktop/modules"
+	],
+	"last_version": 3126,
+	"last_window_id": 61,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 845.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"padi",
+						"padding-top"
+					],
+					[
+						"ma",
+						"mapGetters"
+					],
+					[
+						"V",
+						"Vuex"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"backg",
+						"background-repeat"
+					],
+					[
+						"mu",
+						"mui.min.css"
+					],
+					[
+						"com",
+						"components/"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"back-g",
+						"background-image"
+					],
+					[
+						"cl",
+						"console"
+					],
+					[
+						"Ob",
+						"Observe"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"eve",
+						"eventName"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"tab",
+						"table-cell"
+					],
+					[
+						"cal",
+						"calObj"
+					],
+					[
+						"main",
+						"main.js"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"geti",
+						"getid\tmy-getById-"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"border-d",
+						"border-radius"
+					],
+					[
+						"resu",
+						"resultEle"
+					],
+					[
+						"for",
+						"formData"
+					],
+					[
+						"mus",
+						"musicSrc"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"ses",
+						"sessionVcode"
+					],
+					[
+						"img",
+						"imgbase64"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"re",
+						"rememberme"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"lrc",
+						"lrcObj"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"over",
+						"overflow-y"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"j",
+						"jumpPoint"
+					],
+					[
+						"ove",
+						"overflow"
+					],
+					[
+						"pis",
+						"position"
+					],
+					[
+						"cre",
+						"createUI"
+					],
+					[
+						"chec",
+						"check2"
+					],
+					[
+						"pwd",
+						"pwdLevel"
+					],
+					[
+						"linE",
+						"inline-block"
+					],
+					[
+						"sub",
+						"submitable"
+					],
+					[
+						"users",
+						"usersCollection"
+					],
+					[
+						"use",
+						"usersCollection"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"margi",
+						"margin-top"
+					],
+					[
+						"query",
+						"queryObj"
+					],
+					[
+						"que",
+						"queryObj"
+					],
+					[
+						"backgr-c",
+						"background-color"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"background-a",
+						"background-repeat"
+					],
+					[
+						"s",
+						"static/"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"jum",
+						"jumpTime"
+					],
+					[
+						"se",
+						"server"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"msg",
+						"msgList"
+					],
+					[
+						"me",
+						"method"
+					],
+					[
+						"te",
+						"textarea\tTag"
+					],
+					[
+						"ca",
+						"catchable"
+					],
+					[
+						"btn",
+						"btnEle"
+					],
+					[
+						"boder",
+						"border"
+					],
+					[
+						"good",
+						"goodsModel"
+					],
+					[
+						"sec",
+						"SecondHead"
+					],
+					[
+						"rgb",
+						"rgba()"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"inlie",
+						"inline-block"
+					],
+					[
+						"lists",
+						"list-style"
+					],
+					[
+						"add",
+						"addCart"
+					],
+					[
+						"t",
+						"translate3d()"
+					],
+					[
+						"texa",
+						"text-align"
+					],
+					[
+						"goo",
+						"goodComments.vue"
+					],
+					[
+						"goods",
+						"goods_id"
+					],
+					[
+						"marin",
+						"margin-bottom"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"c",
+						"commons/"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"list-s",
+						"list-style"
+					],
+					[
+						"bacl",
+						"background-color"
+					],
+					[
+						"size",
+						"font-size"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"revers",
+						"reverseMessage"
+					],
+					[
+						"im",
+						"import"
+					],
+					[
+						"Vue",
+						"VueRouter"
+					],
+					[
+						"lo",
+						"LoginVue"
+					],
+					[
+						"vue",
+						"vueRouter"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"tr",
+						"translate()"
+					],
+					[
+						"music",
+						"musicController"
+					],
+					[
+						"find",
+						"findObj"
+					],
+					[
+						"p",
+						"public/"
+					],
+					[
+						"ex",
+						"express-handlebars/"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"bod",
+						"bodyParser"
+					],
+					[
+						"path",
+						"pathObj1"
+					],
+					[
+						"news",
+						"newsList"
+					],
+					[
+						"return",
+						"returnStaic"
+					],
+					[
+						"to",
+						"totalData"
+					],
+					[
+						"html",
+						"htmlText"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"pag",
+						"pageAs"
+					],
+					[
+						"pa",
+						"pageIndex"
+					],
+					[
+						"newS",
+						"newsList"
+					],
+					[
+						"art",
+						"artTemplate"
+					],
+					[
+						"b",
+						"bVal"
+					],
+					[
+						"data",
+						"data.txt"
+					],
+					[
+						"cild",
+						"childProcess"
+					],
+					[
+						"babel",
+						"babel-polyfill/"
+					],
+					[
+						"person",
+						"personTmp"
+					],
+					[
+						"htm",
+						"htmlStr"
+					],
+					[
+						"div",
+						"divEle"
+					],
+					[
+						"02",
+						"02_let.js"
+					],
+					[
+						"write",
+						"writeHead"
+					],
+					[
+						"movie",
+						"movielist"
+					],
+					[
+						"mov",
+						"MovieList"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 362.0,
+				"last_filter": "openre",
+				"selected_items":
+				[
+					[
+						"openre",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: {{{tms}}}"
+					],
+					[
+						"resource",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"pr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"o",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"opensou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"open re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packagevie",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"preview Ctr",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"browser",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mni",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"om",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"omniMarkupPreviewer:",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown htm",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"colorp",
+						"Color Picker: Insert Color"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"slide",
+						"Markdown Slideshow"
+					],
+					[
+						"mar",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 482.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/cms_vue_pro/components/news/newsList.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/package.json",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/App.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/webpack.config.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/package.json",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/03_filter/src/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/components/news/newsList.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/components/home/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/03_filter/src/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/vuex-dev/examples/shopping-cart/store/getters.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/components/partials/header.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/render/mui/examples/hello-mui/examples/tabbar.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/readme.md",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/app.vue",
+				"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/dist/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/css/global.css",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/components/partials/footer.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/render/mui/dist/css/mui.css",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src/components/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/package.json",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/webpack.config.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/css/site.css",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/mui/dist/css/mui.css",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/mui/examples/hello-mui/examples/tabbar.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/mui/examples/hello-mui/examples/grid-default.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_hook/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/header.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/06_vue_login_chatroom/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_router_hook/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_router_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_router_hook/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_router_hook/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_hook/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_mint-ui/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_mint-ui/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_hook/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/06_vue_login_chatroom/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/06_vue_login_chatroom/components/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_hook/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/02_router_params_2/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/02_router_params_2/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/03_vue-resource/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/03_vue-resource/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/05_computed/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/05_computed/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/04_router_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/04_router_hook/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/04_router_hook/components/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/02_router_params_2/components/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/02_router_params_2/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/components/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/components/headerVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/src/components/cart/cart.vue",
+				"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/src/components/partials/myFooterVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/node_modules/vue/dist/vue.common.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/03_vue_quick_start/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/node_modules/vue/src/core/instance/index.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/components/header.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/footer.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/header.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/readme.md",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/09_chatroom/app.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/06_router_params_name/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/05_router_params/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/05_router_params/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/06_router_params_name/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/06_router_params_name/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/05_router_params/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_vue_resource/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_vue_resource/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/05_router_params/components/subVue2.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/webpack.config.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/03_filter/src/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/components/footer.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/webpack.config.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/components/body.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/01_emit_on/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/01_emit_on/emit_on.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/node_modules/vue-router/package.json",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/06_v_for/src/app.vue",
+				"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/webpack.config.js",
+				"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/src/components/news/newsDetail.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-NODE基础-第3天- VUE基础/4-源代码/readme.md",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/readme.md",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/07_components/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/不是课上的代码/10_emit/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/不是课上的代码/10_emit/vueComponet.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/不是课上的代码/node_modules/vue/dist/vue.esm.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/07_components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/07_components/components/header.vue"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 128.0,
+				"where_history":
+				[
+					"C:\\Users\\isc\\Desktop\\test\\node_modules",
+					"C:\\Users\\isc\\Desktop\\testAppA\\components",
+					"C:\\Users\\isc\\Desktop\\mobileApp",
+					"C:\\Users\\isc\\Desktop\\vue",
+					"C:\\Users\\isc\\Desktop\\editor",
+					"C:\\Users\\isc\\Desktop\\day02\\others\\www",
+					"C:\\Users\\isc\\Desktop\\nativeApp\\node_modules",
+					"C:\\Users\\isc\\Desktop\\nativeApp\\node_modules\\react-native"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"span",
+					"member",
+					"cartProducts",
+					"checkoutStatus",
+					"products",
+					"cartProducts",
+					"cartProduct",
+					"cart",
+					"cat",
+					"p",
+					"home",
+					"import",
+					"E100",
+					"\\E100",
+					"'\\E100'",
+					"\\E100",
+					"version",
+					");\n",
+					"function Vue",
+					"Vue",
+					"render",
+					"is",
+					"BodyVue",
+					"key",
+					"$on",
+					"server",
+					"uri",
+					"console.log",
+					"open",
+					"Unable to open browser",
+					"require",
+					"watch-content-base",
+					"yargs",
+					"startDevServer",
+					"reportReadiness",
+					"Unable to open browser",
+					"}\n",
+					"headle",
+					"headless",
+					"head",
+					"headle",
+					"head",
+					"header",
+					"Footer",
+					"\\",
+					"('我是公共的功能')",
+					"document.write('我是公共的功能')",
+					"document.write('我是公共的功能');",
+					"===",
+					"==",
+					"=",
+					"weixin",
+					"weinxin",
+					"document.getElementById",
+					"_cal2",
+					"document.getElementById('n1')",
+					"import",
+					"polyfill",
+					"babel",
+					"        \"my-comments\": \"webpack服务器\"",
+					"这是注释",
+					"comment",
+					"/",
+					"conn99",
+					"dropDatabase",
+					"conn99",
+					"conn290",
+					"system",
+					"remove",
+					"$",
+					"我是",
+					"login",
+					"$",
+					"cd2646463a5d676e6ccc",
+					"response",
+					"findUser",
+					"('')[",
+					"children",
+					"服务",
+					"main",
+					"use",
+					"main",
+					"imglist",
+					"import",
+					"导",
+					"server",
+					"playBtn",
+					"pauseBtn",
+					"scroll",
+					"top",
+					"player.sound.play",
+					"scroll",
+					"player.lrc",
+					"singer",
+					"喜欢",
+					"爱你",
+					"html",
+					"data",
+					"/api/goods/getshopcarlist/ ",
+					"MyPromise",
+					"ele",
+					".",
+					"i",
+					"mui-media-object",
+					"goods_id",
+					"showPicInfo",
+					"/goods/goodsList",
+					":to",
+					"i",
+					"stock",
+					";\n",
+					"slide-",
+					"})\n",
+					"new",
+					"id",
+					"LunboVue",
+					"left",
+					"1",
+					"10",
+					"30",
+					"10",
+					"20",
+					"10",
+					"。",
+					"li",
+					"mui-table-view",
+					"add_time",
+					"DD"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"/",
+					"class",
+					"/s.gif",
+					"input",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 174.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 180.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 391.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1030.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fol",
+						"float"
+					],
+					[
+						"magt",
+						"margin-bottom"
+					],
+					[
+						"com",
+						"components/"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"magi",
+						"margin-bottom"
+					],
+					[
+						"ga",
+						"gategoryId"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"over",
+						"overflow-y"
+					],
+					[
+						"margi",
+						"margin-left"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"mag",
+						"margin-bottom"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"padi",
+						"padding-top"
+					],
+					[
+						"ma",
+						"mapGetters"
+					],
+					[
+						"V",
+						"Vuex"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"backg",
+						"background-repeat"
+					],
+					[
+						"mu",
+						"mui.min.css"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"back-g",
+						"background-image"
+					],
+					[
+						"cl",
+						"console"
+					],
+					[
+						"Ob",
+						"Observe"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"eve",
+						"eventName"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"tab",
+						"table-cell"
+					],
+					[
+						"cal",
+						"calObj"
+					],
+					[
+						"main",
+						"main.js"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"geti",
+						"getid\tmy-getById-"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"border-d",
+						"border-radius"
+					],
+					[
+						"resu",
+						"resultEle"
+					],
+					[
+						"for",
+						"formData"
+					],
+					[
+						"mus",
+						"musicSrc"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"ses",
+						"sessionVcode"
+					],
+					[
+						"img",
+						"imgbase64"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"re",
+						"rememberme"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"lrc",
+						"lrcObj"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"j",
+						"jumpPoint"
+					],
+					[
+						"ove",
+						"overflow"
+					],
+					[
+						"pis",
+						"position"
+					],
+					[
+						"cre",
+						"createUI"
+					],
+					[
+						"chec",
+						"check2"
+					],
+					[
+						"pwd",
+						"pwdLevel"
+					],
+					[
+						"linE",
+						"inline-block"
+					],
+					[
+						"sub",
+						"submitable"
+					],
+					[
+						"users",
+						"usersCollection"
+					],
+					[
+						"use",
+						"usersCollection"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"query",
+						"queryObj"
+					],
+					[
+						"que",
+						"queryObj"
+					],
+					[
+						"backgr-c",
+						"background-color"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"background-a",
+						"background-repeat"
+					],
+					[
+						"s",
+						"static/"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"jum",
+						"jumpTime"
+					],
+					[
+						"se",
+						"server"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"msg",
+						"msgList"
+					],
+					[
+						"me",
+						"method"
+					],
+					[
+						"te",
+						"textarea\tTag"
+					],
+					[
+						"ca",
+						"catchable"
+					],
+					[
+						"btn",
+						"btnEle"
+					],
+					[
+						"boder",
+						"border"
+					],
+					[
+						"good",
+						"goodsModel"
+					],
+					[
+						"sec",
+						"SecondHead"
+					],
+					[
+						"rgb",
+						"rgba()"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"inlie",
+						"inline-block"
+					],
+					[
+						"lists",
+						"list-style"
+					],
+					[
+						"add",
+						"addCart"
+					],
+					[
+						"t",
+						"translate3d()"
+					],
+					[
+						"texa",
+						"text-align"
+					],
+					[
+						"goo",
+						"goodComments.vue"
+					],
+					[
+						"goods",
+						"goods_id"
+					],
+					[
+						"marin",
+						"margin-bottom"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"c",
+						"commons/"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"list-s",
+						"list-style"
+					],
+					[
+						"bacl",
+						"background-color"
+					],
+					[
+						"size",
+						"font-size"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"revers",
+						"reverseMessage"
+					],
+					[
+						"im",
+						"import"
+					],
+					[
+						"Vue",
+						"VueRouter"
+					],
+					[
+						"lo",
+						"LoginVue"
+					],
+					[
+						"vue",
+						"vueRouter"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"tr",
+						"translate()"
+					],
+					[
+						"music",
+						"musicController"
+					],
+					[
+						"find",
+						"findObj"
+					],
+					[
+						"p",
+						"public/"
+					],
+					[
+						"ex",
+						"express-handlebars/"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"bod",
+						"bodyParser"
+					],
+					[
+						"path",
+						"pathObj1"
+					],
+					[
+						"news",
+						"newsList"
+					],
+					[
+						"return",
+						"returnStaic"
+					],
+					[
+						"to",
+						"totalData"
+					],
+					[
+						"html",
+						"htmlText"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"pag",
+						"pageAs"
+					],
+					[
+						"pa",
+						"pageIndex"
+					],
+					[
+						"newS",
+						"newsList"
+					],
+					[
+						"art",
+						"artTemplate"
+					],
+					[
+						"b",
+						"bVal"
+					],
+					[
+						"data",
+						"data.txt"
+					],
+					[
+						"cild",
+						"childProcess"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/tujunxiong/Desktop/SublimeText3_20170405/Data/Packages/Terminal/Terminal.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 93,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/tujunxiong/Desktop/SublimeText3_20170405/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 595,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 362.0,
+				"last_filter": "openre",
+				"selected_items":
+				[
+					[
+						"openre",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: {{{tms}}}"
+					],
+					[
+						"resource",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"pr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"o",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"opensou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"open re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packagevie",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"preview Ctr",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"browser",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mni",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"om",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"omniMarkupPreviewer:",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown htm",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"colorp",
+						"Color Picker: Insert Color"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"slide",
+						"Markdown Slideshow"
+					],
+					[
+						"mar",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 482.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情"
+			],
+			"file_history":
+			[
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/cms_vue_pro/components/home/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/cms_vue_pro/components/news/newsList.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/cms_vue_pro/components/partials/goBackHeader.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/cms_vue_pro/components/partials/header.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/readme.md",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/cms_vue_pro/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_computed_props/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_computed_props/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_computed_props/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/cms_vue_pro/components/photo/photoShare.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/cms_vue_pro/components/news/newsDetail.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/cms_vue_pro/components/partials/goback.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/package.json",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/App.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/01_vuex/webpack.config.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/05-VUE-第5天- 新闻列表-新闻详情/4-源代码/code/package.json",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/03_filter/src/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/components/news/newsList.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/components/home/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/03_filter/src/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/vuex-dev/examples/shopping-cart/store/getters.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/components/partials/header.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/render/mui/examples/hello-mui/examples/tabbar.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/readme.md",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/app.vue",
+				"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/dist/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/css/global.css",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/components/partials/footer.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/render/mui/dist/css/mui.css",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_router_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src/components/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/package.json",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/webpack.config.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/css/site.css",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/mui/dist/css/mui.css",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/mui/examples/hello-mui/examples/tabbar.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/static/mui/examples/hello-mui/examples/grid-default.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/cms_vue_pro/src",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_hook/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/header.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/08_route_update/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/06_vue_login_chatroom/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_router_hook/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_router_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_router_hook/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/07_router_hook/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_hook/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_mint-ui/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_mint-ui/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_hook/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/06_vue_login_chatroom/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/06_vue_login_chatroom/components/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_hook/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/02_router_params_2/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/02_router_params_2/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/03_vue-resource/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/03_vue-resource/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/05_computed/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/05_computed/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/04_router_hook/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/04_router_hook/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/04_router_hook/components/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/02_router_params_2/components/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/02_router_params_2/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/components/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/components/headerVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router_params/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/04-VUE-第4天- 项目首页/4-源代码/code/01_router/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/src/components/cart/cart.vue",
+				"/C/Users/tujunxiong/Desktop/课前准备/vue项目/03_pro_day01/cms_vue/src/components/partials/myFooterVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/node_modules/vue/dist/vue.common.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/03_vue_quick_start/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/02-VUE-第2天- VUE基础/4-源代码/code/node_modules/vue/src/core/instance/index.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/components/header.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/footer.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/header.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/home.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/readme.md",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/09_chatroom/app.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/components/login.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/08_vue_login_chatroom/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/06_router_params_name/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/05_router_params/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/05_router_params/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/06_router_params_name/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/06_router_params_name/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/05_router_params/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_vue_resource/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/07_vue_resource/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/05_router_params/components/subVue2.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/webpack.config.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/main.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/components/chatroom.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/components/subVue.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/04_vue-router/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/03_filter/src/components/app.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/components/footer.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/webpack.config.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/02_components/src/components/body.vue",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/01_emit_on/index.html",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/01_emit_on/emit_on.js",
+				"/C/Users/tujunxiong/Desktop/广州5期node课程/03-VUE-第3天- VUE基础/4-源代码/code/node_modules/vue-router/package.json"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 128.0,
+				"where_history":
+				[
+					"C:\\Users\\isc\\Desktop\\test\\node_modules",
+					"C:\\Users\\isc\\Desktop\\testAppA\\components",
+					"C:\\Users\\isc\\Desktop\\mobileApp",
+					"C:\\Users\\isc\\Desktop\\vue",
+					"C:\\Users\\isc\\Desktop\\editor",
+					"C:\\Users\\isc\\Desktop\\day02\\others\\www",
+					"C:\\Users\\isc\\Desktop\\nativeApp\\node_modules",
+					"C:\\Users\\isc\\Desktop\\nativeApp\\node_modules\\react-native"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"');\n",
+					"span",
+					"member",
+					"cartProducts",
+					"checkoutStatus",
+					"products",
+					"cartProducts",
+					"cartProduct",
+					"cart",
+					"cat",
+					"p",
+					"home",
+					"import",
+					"E100",
+					"\\E100",
+					"'\\E100'",
+					"\\E100",
+					"version",
+					");\n",
+					"function Vue",
+					"Vue",
+					"render",
+					"is",
+					"BodyVue",
+					"key",
+					"$on",
+					"server",
+					"uri",
+					"console.log",
+					"open",
+					"Unable to open browser",
+					"require",
+					"watch-content-base",
+					"yargs",
+					"startDevServer",
+					"reportReadiness",
+					"Unable to open browser",
+					"}\n",
+					"headle",
+					"headless",
+					"head",
+					"headle",
+					"head",
+					"header",
+					"Footer",
+					"\\",
+					"('我是公共的功能')",
+					"document.write('我是公共的功能')",
+					"document.write('我是公共的功能');",
+					"===",
+					"==",
+					"=",
+					"weixin",
+					"weinxin",
+					"document.getElementById",
+					"_cal2",
+					"document.getElementById('n1')",
+					"import",
+					"polyfill",
+					"babel",
+					"        \"my-comments\": \"webpack服务器\"",
+					"这是注释",
+					"comment",
+					"/",
+					"conn99",
+					"dropDatabase",
+					"conn99",
+					"conn290",
+					"system",
+					"remove",
+					"$",
+					"我是",
+					"login",
+					"$",
+					"cd2646463a5d676e6ccc",
+					"response",
+					"findUser",
+					"('')[",
+					"children",
+					"服务",
+					"main",
+					"use",
+					"main",
+					"imglist",
+					"import",
+					"导",
+					"server",
+					"playBtn",
+					"pauseBtn",
+					"scroll",
+					"top",
+					"player.sound.play",
+					"scroll",
+					"player.lrc",
+					"singer",
+					"喜欢",
+					"爱你",
+					"html",
+					"data",
+					"/api/goods/getshopcarlist/ ",
+					"MyPromise",
+					"ele",
+					".",
+					"i",
+					"mui-media-object",
+					"goods_id",
+					"showPicInfo",
+					"/goods/goodsList",
+					":to",
+					"i",
+					"stock",
+					";\n",
+					"slide-",
+					"})\n",
+					"new",
+					"id",
+					"LunboVue",
+					"left",
+					"1",
+					"10",
+					"30",
+					"10",
+					"20",
+					"10",
+					"。",
+					"li",
+					"mui-table-view",
+					"add_time"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"/",
+					"class",
+					"/s.gif",
+					"input",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\tujunxiong\\Desktop\\广州5期node课程\\04-VUE-第4天- 项目首页"
+				},
+				{
+					"path": "C:\\Users\\tujunxiong\\Desktop\\课前准备\\vue项目\\03_pro_day01\\cms_vue\\dist"
+				},
+				{
+					"path": "C:\\Users\\tujunxiong\\Desktop\\vuex-dev"
+				},
+				{
+					"path": "C:\\Users\\tujunxiong\\Desktop\\广州5期node课程\\05-VUE-第5天- 新闻列表-新闻详情"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/tujunxiong/Desktop/SublimeText3_20170405/Data/Packages/Terminal/Terminal.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 93,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										36,
+										36
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "json",
+									"buffer_scroll_name": "30d564d4",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/tujunxiong/Desktop/SublimeText3_20170405/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 595,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										348,
+										348
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "json",
+									"buffer_scroll_name": "cd4738b2",
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 174.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 180.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,915,584,11,1630",
+			"project": "",
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 433.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 58,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

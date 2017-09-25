@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/Theme - Piatto/Piatto Light.tmTheme",
+	"font_face": "consolas",
+	"font_size": 18,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Theme - El Capitan",
+		"Vintage",
+		"Vue Syntax Highlight"
+	],
+	"index_files": false,
+	"open_files_in_new_window": true,
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"tab_size": 4,
+	"theme": "Piatto Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}

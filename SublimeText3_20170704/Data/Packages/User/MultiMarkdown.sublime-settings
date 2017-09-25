@@ -1,0 +1,8 @@
+{
+	// "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme",
+  "color_scheme": "Packages/Sepiarize.tmTheme",
+	"extensions":
+	[
+		"md"
+	]
+}

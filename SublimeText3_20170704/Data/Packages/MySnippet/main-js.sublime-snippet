@@ -1,0 +1,31 @@
+<snippet>
+  <content><![CDATA[
+//引入vue
+import Vue from 'vue';
+//引入vue-router
+import VueRouter from 'vue-router';
+//引入相关需要使用的组件
+import App from './app.vue';//放几个router-link标签
+import ShowVue from './showVue.vue';
+//为vue加入插件router
+Vue.use(VueRouter);
+//配置路由指向的插件
+let router = new VueRouter({
+    routes:[
+        // {name:'edit',path:'/edit/:name/:age',component:ShowVue} 通过params获取
+         {name:'edit',path:'/edit',component:ShowVue}
+    ]
+});
+//将路由对象配置进vue实例
+new Vue({
+    el:'#app',
+    router,
+    render:c=>c(App)
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>main</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.html|source.js</scope>
+  <descripbe>vue_main.js</descripbe>
+</snippet>
